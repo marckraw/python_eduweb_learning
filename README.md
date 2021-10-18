@@ -1,6 +1,11 @@
 # Python playround
 
 
+To go inside virtual env
+```
+source venv/bin/activate
+```
+
 To install deps
 ```
 pip install -r requirements.txt
